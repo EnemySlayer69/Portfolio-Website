@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Comfortaa;
+  display: flex;
+  flex-direction: column;
+}
